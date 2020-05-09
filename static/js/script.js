@@ -74,6 +74,6 @@ for(var i = 1; i <= 10; i++){
     c.appendChild(t);
 
     var p = document.createElement('p');
-    p.textContent = 'The orphan Sheeta inherited a mysterious crystal that links her to the mythical sky-kingdom of Laputa.';
+    p.textContent = 'They see me rollin They hatin Patrolling and tryin to catch me ridin dirty Tryin to catch me ridin dirty';
     c.appendChild(p);
 }
